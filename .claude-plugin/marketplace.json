@@ -1,0 +1,14 @@
+{
+  "name": "creative-research-bundle",
+  "owner": {
+    "name": "Sprints & Sneakers",
+    "url": "https://sprintsandsneakers.com"
+  },
+  "plugins": [
+    {
+      "name": "creative-research",
+      "source": "./",
+      "description": "Seven skills by Sprints & Sneakers that turn raw market data into a creative brief, audience blueprint and ranked angle bank."
+    }
+  ]
+}

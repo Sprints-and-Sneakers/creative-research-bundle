@@ -1,0 +1,17 @@
+{
+  "name": "creative-research",
+  "version": "1.0.0",
+  "description": "Creative research pipeline for Claude by Sprints & Sneakers: customer intelligence, competitor analysis, performance analysis, cross-source synthesis, audience blueprint and a ranked angle bank. Tool-agnostic \u2014 runs on whatever data connections you have.",
+  "keywords": [
+    "market-research",
+    "customer-research",
+    "competitor-analysis",
+    "advertising",
+    "voice-of-customer"
+  ],
+  "author": {
+    "name": "Sprints & Sneakers",
+    "url": "https://sprintsandsneakers.com"
+  },
+  "homepage": "https://sprintsandsneakers.com"
+}

@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.env.*
+.mcp.json
+node_modules/
+.vercel/
+output/
