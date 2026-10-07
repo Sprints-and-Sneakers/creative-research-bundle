@@ -125,3 +125,5 @@ Built by **[Sprints & Sneakers](https://sprintsandsneakers.com)**, a performance
 Running it at real depth is what we do as a service: full review corpora across every competitor, complete ad-library analysis, and refreshes month over month. If you would rather have it done properly for your brand, talk to us.
 
 © Sprints & Sneakers.
+
+Released under the [MIT License](LICENSE).
